@@ -48,8 +48,3 @@ def log(func):
 
     return wrapper
 
-@log
-def example_function():
-    return "Результат"
-
-example_function()
