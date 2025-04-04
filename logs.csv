@@ -1,3 +1,6 @@
 id,pc_username,function_name,Date in date.month.year,Time
-0,User,example_function,03-04-2025,16:22:35
-1,User,example_function,03-04-2025,22:04:04
+
+0,User,example_function,04-04-2025,20:35:19
+1,User,main,04-04-2025,20:35:22
+2,User,example_function,04-04-2025,20:35:25
+3,User,main,04-04-2025,20:35:31

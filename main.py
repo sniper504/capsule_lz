@@ -1,5 +1,6 @@
 from statistic import GraphicStatistics
 from log import log
+@log
 def main():
     df_path = 'states.csv'
     stats = GraphicStatistics(df_path)

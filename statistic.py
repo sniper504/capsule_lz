@@ -71,10 +71,7 @@ class GraphicStatistics:
         plt.tight_layout()
         plt.show()
 
-# Использование
-df_path = 'states.csv'
-stats = GraphicStatistics(df_path)
-stats.histogram()
+
 
 
 
